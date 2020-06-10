@@ -1,0 +1,1 @@
+const products = ['aphogee', "l'oreal", 'mac', '']
